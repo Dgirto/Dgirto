@@ -1,29 +1,41 @@
-<h1 align="center">Hola, soy Dorian Girón Prato 👋</h1>
+<a href="https://dorian-portafolio.vercel.app">
+  <img src="assets/portada.svg" alt="Soy Dorian Girón. Ingeniero de Software." width="100%" />
+</a>
 
-<p align="center">
-  Ingeniero de software júnior en Ruvic AI · Estudiante de Ingeniería de Software con IA en SENATI
+<p>
+  <a href="https://dorian-portafolio.vercel.app"><img src="assets/enlace-portafolio.svg" alt="Portafolio" height="40" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/dorian-giron-prato-30b25a32b/"><img src="assets/enlace-linkedin.svg" alt="LinkedIn" height="40" /></a>&nbsp;
+  <a href="mailto:gironpratodorian@gmail.com"><img src="assets/enlace-correo.svg" alt="Correo" height="40" /></a>
 </p>
 
-Construyo integraciones, servicios backend y aplicaciones web con Python, React y TypeScript.
+Estudio el 5.º ciclo de Ingeniería de Software con IA en SENATI. Trabajo con Python, TypeScript y React, y construyo conectores que llevan agentes de IA a sistemas reales.
 
-🌐 [Ver mi portafolio](https://dorian-portafolio.vercel.app)
+Me interesa entender cómo funciona el código por dentro y convertir procesos manuales en flujos automáticos.
 
-## 🔭 Proyectos destacados
+## Proyectos.
 
-| Proyecto | Qué hace | Tecnologías |
-|---|---|---|
-| [Watchdog](https://github.com/Dgirto/watchdog-bot-monitor) | Monitorea la disponibilidad de bots en producción mediante heartbeats, con registro de incidentes y panel web | Python, FastAPI, WebSockets, PostgreSQL |
-| [SmartPark](https://github.com/Dgirto/parqueo) | Sistema web para controlar un estacionamiento: lee placas, gestiona tickets y calcula cobros | Python, FastAPI, React, TypeScript, OpenCV, EasyOCR |
-| [Tuerka](https://github.com/Dgirto/ProyectoTuerka) · [demo](https://proyecto-tuerka.vercel.app) | Sitio web de venta de vehículos con catálogo, filtros y búsqueda | React, React Router, Vite, Supabase |
-| [doit](https://github.com/Dgirto/appTareas) | App Android para gestionar tareas, con base de datos local y autenticación | Java, Android, SQLite, Firebase Auth |
-| [Portafolio](https://github.com/Dgirto/dorian-portfolio) · [demo](https://dorian-portafolio.vercel.app) | Mi sitio personal con experiencia, proyectos y actividad de GitHub | React, TypeScript, Vite |
+<a href="https://github.com/Dgirto/watchdog-bot-monitor">
+  <img src="assets/proyecto-watchdog.svg" alt="watchdog-bot-monitor: monitoreo en tiempo real para bots y agentes de IA en producción" width="100%" />
+</a>
 
-## 💻 Tecnologías
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,react,nodejs,java,postgres,mysql,docker,aws,azure,git&perline=6" alt="Python, FastAPI, TypeScript, React, Node.js, Java, PostgreSQL, MySQL, Docker, AWS, Azure y Git" />
+<p>
+  <a href="https://github.com/Dgirto/parqueo"><img src="assets/proyecto-smartpark.svg" alt="SmartPark: sistema web que lee placas en video y controla entradas, salidas y cobros" width="49%" /></a>
+  <a href="https://github.com/Dgirto/ProyectoTuerka"><img src="assets/proyecto-tuerka.svg" alt="Tuerka: sitio web de venta de vehículos, llevado de Figma a React" width="49%" /></a>
 </p>
 
-## 🤝 Contacto
+<p>
+  <a href="https://dorian-portafolio.vercel.app/#proyectos"><img src="assets/proyecto-conectores.svg" alt="Catálogo de conectores: 46 conectores que permiten a un agente de IA trabajar con sistemas reales" width="49%" /></a>
+  <a href="https://github.com/Dgirto/appTareas"><img src="assets/proyecto-doit.svg" alt="doit: gestor de tareas para Android que funciona sin conexión" width="49%" /></a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/dorian-giron-prato-30b25a32b/) · [Portafolio](https://dorian-portafolio.vercel.app)
+## Stack, con evidencia.
+
+<a href="https://dorian-portafolio.vercel.app/#stack">
+  <img src="assets/stack.svg" alt="Tecnologías agrupadas en lenguajes, frontend, IA y APIs, y datos e infraestructura, cada una con el proyecto donde se usa" width="100%" />
+</a>
+
+<br />
+
+<a href="https://dorian-portafolio.vercel.app/#contacto">
+  <img src="assets/cierre.svg" alt="Crecer con estrategia." width="100%" />
+</a>
